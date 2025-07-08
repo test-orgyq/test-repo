@@ -3,9 +3,5 @@ public class main{
         System.out.println("Hello guys from lm-ace");  
 
         System.out.println("Hello im Lyoew"); 
-
-        System.out.println("now its a new line after activation of ruleset");
-
-        System.out.println("again");
     }
 }
