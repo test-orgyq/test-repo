@@ -5,6 +5,12 @@ public class main{
         System.out.println("Hello im Lyoew"); 
 
         System.out.println("new code"); 
+
+        System.out.println("new"); 
+
+        System.out.println("new code authorization"); 
+
         
+
     }
 }
